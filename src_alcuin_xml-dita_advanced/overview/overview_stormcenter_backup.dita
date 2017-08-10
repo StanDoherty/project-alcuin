@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tfk_vrf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter-backup"/></title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormcenter-backup"/> provides central
+            administration for configuration and data backups for all resources hosted on the Cloud
+            or in the Cluster. </p>
+        <p><image href="graphics/storm-center_backup.png" id="image_wzj_vhm_51b"/></p>
+        <p>In the larger context of <ph conkeyref="library_productname_keys/k_ph_suite"/>, <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-backup"/> does the
+            following:</p>
+        <ul id="ul_jjr_g4b_v1b">
+            <li>Provides a single Backup Policy Manager for resources available to <ph
+                    conkeyref="library_productname_keys/k_ph_cloud"/> or to <ph
+                    conkeyref="library_productname_keys/k_ph_cluster"/>. </li>
+            <li>Provides an easy-to-use web interface (through <ph
+                    conkeyref="library_productname_keys/k_ph_stormview-console"/>) to create,
+                update, and manage backup policy definitions and profiles.</li>
+            <li>Executes backup policies and reports backup statistics to <ph
+                    conkeyref="library_productname_keys/k_ph_stormcenter-report"/>.</li>
+        </ul>
+    </conbody>
+</concept>

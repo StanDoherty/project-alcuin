@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_eg4_yrf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter-balance"/></title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormcenter-balance"/> provides basic
+            resource balancing and capacity management services across resources hosted out of the
+            Cloud or out of the Cluster. </p>
+        <p><image href="graphics/storm-center_balance.png" id="image_rv1_2sf_51b"/></p>
+        <p>In the larger context of <ph conkeyref="library_productname_keys/k_ph_suite"/>, <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-balance"/> does the
+            following:</p>
+        <ul id="ul_jjr_g4b_v1b">
+            <li>Provides a single Capacity and Performance Manager for resources available to <ph
+                    conkeyref="library_productname_keys/k_ph_cloud"/> or to <ph
+                    conkeyref="library_productname_keys/k_ph_cluster"/>. </li>
+            <li>Provides an easy-to-use web interface (through <ph
+                    conkeyref="library_productname_keys/k_ph_stormview-console"/>) to create,
+                update, and manage storage capacity or compute performance definitions and
+                profiles.</li>
+            <li>Monitors capacity and performance threshholds throughout the system and reports to
+                any of the <ph conkeyref="library_productname_keys/k_ph_stormview"/> clients. </li>
+            <li>Reports general capacity and performance metrics to <ph
+                    conkeyref="library_productname_keys/k_ph_stormcenter-report"/>.</li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_b4x_rj1_v1b">
+    <title><ph conkeyref="library_productname_keys/k_ph_suite"/> overview</title>
+    <body>
+        <p>This section of the <cite><ph conkeyref="library_productname_keys/k_ph_suite"/>
+                Administration Guide</cite> provides an overview of the major components in <ph
+                conkeyref="library_productname_keys/k_ph_suite"/> and how they support the unified
+            deployment and adminstration of both Cloud and Cluster services.</p>
+        <p><image href="graphics/logo_stormsuite_01.png" id="image_ijf_qth_v1b"/></p>
+    </body>
+</topic>

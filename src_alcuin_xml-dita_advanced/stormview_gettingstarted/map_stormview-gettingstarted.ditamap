@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Getting Started with StormView</title>
+    <topicref href="stormview-gettingstarted_glue.dita">
+        <topicref href="stormview_general_intro.dita">
+            <topicref href="stormview_gettingstarted_custom-views.dita"/>
+            <topicref href="stormview_gettingstarted_messages.dita"/>
+        </topicref>
+        <topicref href="stormview-gettingstarted_console_top.dita">
+            <topicref href="stormview_gettingstarted_console_parts.dita"/>
+            <topicref href="stormview_gettingstarted_console_logging-on.dita"/>
+        </topicref>
+        <topicref href="stormview-gettingstarted_mobileview_top.dita">
+            <topicref href="stormview-gettingstarted_mobileview_overview.dita"/>
+            <topicref href="stormview_gettingstarted_mobileview_logging-on.dita"/>
+            <topicref href="stormview_gettingstarted_mobileview_workspace.dita"/>
+        </topicref>
+    </topicref>
+</map>

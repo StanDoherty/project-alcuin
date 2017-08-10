@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zrh_fyk_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_cluster"/> overview</title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_cluster"/> provides a set of interfaces to
+            the following Cluster-specific services:</p>
+        <ul id="ul_erp_rt1_v1b">
+            <li>Network-attached storage </li>
+            <li>Redundancy-aware node configurations</li>
+            <li>Failover and disaster-recovery policies</li>
+        </ul>
+        <p><image href="graphics/stormcluster.png" id="image_xkd_lw1_v1b"/></p>
+        <p><ph conkeyref="library_productname_keys/k_ph_suite"/> administrators interact with <ph
+                conkeyref="library_productname_keys/k_ph_cloud"/> interfaces via <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter"/>. </p>
+    </conbody>
+</concept>

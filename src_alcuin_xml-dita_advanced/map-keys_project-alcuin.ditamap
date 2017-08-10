@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>StormSuite - resource-only libraries and maps</title>
+    
+    <topicref keys="library_productname_keys" href="x_key-definitions/library_productname_keys.dita"/>
+    <!-- REVIEW -->
+    <topicref href="x_key-definitions/map-keys_graphics.ditamap" format="ditamap"/>
+    <topicref href="x_key-definitions/map-keys_navigation_topics.ditamap" format="ditamap"/>
+    <topicref href="x_key-definitions/map-keys_navigation_web.ditamap" format="ditamap"/>
+    <topicref href="x_key-definitions/map-subjectscheme_stormsuite-personna.ditamap" format="ditamap"/>
+    
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Appendices</title>
+    <topicref href="appendix_top.dita">
+        <topicref href="appendix_frequently-asked-questions.dita"/>
+        <topicref href="appendix_system-notifications.dita"/>
+        <topicref href="appendix_quickref_data-views.dita"/>
+        <topicref href="appendix_quickref_health_indicators.dita"/>
+    </topicref>
+</map>

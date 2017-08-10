@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vs2_1tf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormview"/></title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormview"/> provides a single interface for
+            configuring, monitoring, and administering <ph
+                conkeyref="library_productname_keys/k_ph_suite"/> assets – be they in the Cloud or
+            in a local Cluster. <ph conkeyref="library_productname_keys/k_ph_stormview"/> provides
+            that consistent, complete, and elegant interface for <ph
+                conkeyref="library_productname_keys/k_ph_suite"/> adminstrators. </p>
+        <p><image href="graphics/storm-suite_05.png" id="image_emf_htf_51b"/></p>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormview"/> provides three,
+            equally-functional interfaces:</p>
+        <ul id="ul_yyf_1vh_v1b">
+            <li><ph conkeyref="library_productname_keys/k_ph_stormview-console"/>: Desktop graphical
+                console</li>
+            <li><ph conkeyref="library_productname_keys/k_ph_stormview-mobile"/>: Mobile graphical
+                interface</li>
+            <li><ph conkeyref="library_productname_keys/k_ph_stormview-restapi"/>: RESTful
+                application programming interface</li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_mv_performance_tab" xml:lang="en-us">
+ <title><ph conkeyref="library_productname_keys/k_ph_stormcenter"/> system diagnostics</title>
+<!-- This Project Alcuin topic was derived from the Gnostyx Thunderbird project. -->
+<!-- See https://github.com/gnostyx/dita-demo-content-collection for original sources. -->
+ <conbody>
+  <p>The <uicontrol>Troubleshooting</uicontrol> sub-tab provides a data view for cluster modules
+      actively engaged with your project's tasks. The data views provide details regarding the
+      current status and projected performance of the cluster modules.</p>
+    <p>The System Diagnostic troubleshooting agent will run a series of interactive tests to
+      identify and isolate problems within the <ph
+        conkeyref="library_productname_keys/k_ph_stormcenter"/> grid. A typical interaction would
+      proceed as follows:<ul id="ul_ht4_jns_mr">
+        <li>User selects the <uicontrol>Troubleshooting Scenario</uicontrol> that best fits the
+          observed situation.</li>
+        <li>A series of tests will run, with results either being captured and displayed
+          automatically or being observed and entered by the user.</li>
+        <li>The result from one test may lead to one or more additional tests being run.</li>
+        <li>One or more problems will be identified, isolated, and confirmed by the tests.</li>
+        <li>One or more resolution measures will be identified.</li>
+        <li>Resolution measures will include references to the applicable task documentation. </li>
+      </ul>
+    </p>
+   
+  <p id="p_pl5_x5m_mr">For each cluster module, a data view presents a graph depicting the clusters
+      progress. Three different health indicators signal the current or future processing status:
+    </p>
+   
+  <p>If the cluster has stopped processing a task, it is not performing optimally, or it cannot address projected workloads, you will also receive a notification message alerting you to the problem. Visit the <uicontrol>Diagnostics Tab</uicontrol> to see additional information on the issue, select actions to amend the situation, and monitor the impact of your intervention.</p>
+   </conbody>
+</concept>

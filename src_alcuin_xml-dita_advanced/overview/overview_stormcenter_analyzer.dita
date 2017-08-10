@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_o51_nrf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/>
+    </title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/> provides central
+            administration for resources hosted on the Cloud or in the Cluster. </p>
+        <p><image href="graphics/storm-center_analyzer.png" id="image_xgp_prf_51b"/></p>
+        <p>In the larger context of <ph conkeyref="library_productname_keys/k_ph_suite"/>, <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/> does the
+            following:</p>
+        <ul id="ul_jjr_g4b_v1b">
+            <li>Conducts a complete inventory of available compute, network, and storage resources
+                accessible to <ph conkeyref="library_productname_keys/k_ph_cloud"/> or to <ph
+                    conkeyref="library_productname_keys/k_ph_cluster"/>.  </li>
+            <li>Provisions a central resource database with inventoried resources. </li>
+            <li>Monitors the availability and general health of each resource indentified in its
+                inventory via layered "heartbeat" agents.</li>
+            <li>Serves inventory and status information to <ph
+                    conkeyref="library_productname_keys/k_ph_stormcenter-report"/>.</li>
+        </ul>
+    </conbody>
+</concept>

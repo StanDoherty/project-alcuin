@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tsw_lkd_5r">
+ <title><ph conkeyref="library_productname_keys/k_ph_stormview-mobile"/></title>
+    <conbody>
+        <p>This section explains how to use <ph
+                conkeyref="library_productname_keys/k_ph_stormview-mobile"/>, your one-stop solution
+            for managing <ph conkeyref="library_productname_keys/k_ph_suite"/> from a mobile
+            device.</p>
+    </conbody>
+</concept>

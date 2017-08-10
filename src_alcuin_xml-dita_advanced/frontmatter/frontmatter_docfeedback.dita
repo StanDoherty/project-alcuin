@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ct4_24z_k1b">
+  <title rev="alcuin">Documentation feedback</title>
+  <refbody>
+    <section rev="alcuin" id="section_ulr_g4z_k1b">
+      <p><ph conkeyref="library_productname_keys/k_ph_company"/> welcomes your feedback. To provide
+        feedback on the <ph conkeyref="library_productname_keys/k_ph_suite"/> documentation, send
+        email to <msgph>docfeedback@stormsystems.com</msgph>.</p>
+    </section>
+  </refbody>
+</reference>

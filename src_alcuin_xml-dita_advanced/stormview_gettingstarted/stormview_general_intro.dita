@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_elx_tcn_v1b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormview"/> views and messages</title>
+    <body>
+        <p>This section explains how to use views and messages in <ph
+                conkeyref="library_productname_keys/k_ph_stormview"/>. </p>
+    </body>
+</topic>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_edf_ch1_v1b">
+    <title>Disclaimer</title>
+    <refbody>
+        <section id="section_gmv_ch1_v1b">
+            <p>This document presents the current views of <ph
+                    conkeyref="library_productname_keys/k_ph_company"/> as of the date of
+                publication. Because <ph conkeyref="library_productname_keys/k_ph_company"/> must
+                respond to changing market and technological conditions the information herein
+                should not be interpreted as a commitment from <ph
+                    conkeyref="library_productname_keys/k_ph_company"/>. It cannot guarantee the
+                accuracy of any information presented. <ph
+                    conkeyref="library_productname_keys/k_ph_company"/> makes no warranties, express
+                or implied, about the content of any part of this document or the content contained
+                in it.</p>
+        </section>
+    </refbody>
+</reference>

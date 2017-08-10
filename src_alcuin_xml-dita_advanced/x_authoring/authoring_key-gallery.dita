@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_spn_b2b_l1b">
+  <title><ph conkeyref="library_productname_keys/k_ph_suite"/> - gallery of keys for authors</title>
+  <body>
+    <p></p>
+    <section id="section_kf3_mfb_l1b">
+      <title>Corporate Keys</title>
+      <p/>
+      <simpletable frame="all" relcolwidth="1.23* 1.47* 1.0*" id="simpletable_mv2_qfb_l1b">
+        <sthead>
+          <stentry>Keyname</stentry>
+          <stentry>Curent value (conkeyref)</stentry>
+          <stentry>Usage</stentry>
+        </sthead>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_company</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_company"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>Company name</p>
+          </stentry>
+        </strow>
+      </simpletable>
+    </section>
+    <section id="section_mhn_nfb_l1b">
+      <title>Product Keys</title>
+      <p/>
+      <simpletable frame="all" relcolwidth="1.27* 1.53* 1.0*" id="simpletable_ir4_jgb_l1b">
+        <sthead>
+          <stentry>Keyname</stentry>
+          <stentry>Curent value (conkeyref)</stentry>
+          <stentry>Usage</stentry>
+        </sthead>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_name</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_name"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_suite</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_suite"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_cloud</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_cloud"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_cluster</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_cluster"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormview</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormview"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormview-console</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormview-console"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormview-mobile</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormview-mobile"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormview-restapi</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormview-restapi"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormcenter</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormcenter"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormcenter-analyzer</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormcenter-backup</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormcenter-backup"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormcenter-balance</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormcenter-balance"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormcenter-report</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormcenter-report"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormcenter-secure</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormcenter-secure"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p><msgph>k_ph_stormcenter-store</msgph></p>
+          </stentry>
+          <stentry>
+            <p>
+              <ph conkeyref="library_productname_keys/k_ph_stormcenter-store"/>
+            </p>
+          </stentry>
+          <stentry>
+            <p>boilerplate key</p>
+          </stentry>
+        </strow>
+      </simpletable>
+    </section>
+  </body>
+</topic>

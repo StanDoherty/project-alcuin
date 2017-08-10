@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_axs_jtf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormview-console"/></title>
+    <conbody>
+        <p>For administrators working on laptops or workstations, <ph
+                conkeyref="library_productname_keys/k_ph_stormview-console"/> provides full access
+            to all administrative functions supported by <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter"/>.  </p>
+        <p><image href="graphics/console.png" id="image_rsj_nvh_v1b"/></p>
+    </conbody>
+</concept>

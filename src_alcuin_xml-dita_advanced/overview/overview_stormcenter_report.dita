@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bgq_jsf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter-report"/></title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormcenter-report"/> collects metrics from
+            all the <ph conkeyref="library_productname_keys/k_ph_stormcenter"/> applications and
+            makes them viewable in all the <ph conkeyref="library_productname_keys/k_ph_stormview"/>
+            clients. </p>
+        <p><image href="graphics/storm-center_report.png" id="image_cgv_lsf_51b"/></p>
+        <p>In the larger context of <ph conkeyref="library_productname_keys/k_ph_suite"/>, <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-report"/> does the
+            following:</p>
+        <ul id="ul_jjr_g4b_v1b">
+            <li>Provides a single point of collection for both <ph
+                    conkeyref="library_productname_keys/k_ph_cloud"/> and <ph
+                    conkeyref="library_productname_keys/k_ph_cluster"/> metrics on the following:
+                    <ul id="ul_jjx_kph_v1b">
+                    <li>Capacity utilization</li>
+                    <li>Networking performance </li>
+                    <li>Application performance </li>
+                    <li>System availability</li>
+                </ul></li>
+        </ul>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormview"/> calls <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-report"/> to obtain the most
+            current data tables and diagrams. </p>
+        <p><image href="graphics/performance_reports.jpg" id="image_z3b_vph_v1b" scalefit="no"/></p>
+    </conbody>
+</concept>

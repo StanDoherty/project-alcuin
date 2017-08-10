@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ufb_zpf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter"/> - unified services and APIs </title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormcenter"/> provides a unified suite of
+            services that can deploy, manage, monitor, and balance resources that reside on a Cloud
+            or on a local Cluster. </p>
+        <p><image href="graphics/storm-suite_03.png" id="image_btz_bqf_51b"/></p>
+        <p>One set of interfaces and services to perform the following management tasks in a hybrid
+            environment:</p>
+        <ul id="ul_pqh_bnb_v1b">
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/></i>: </li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-backup"/></i>:</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-balance"/></i>:</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-report"/></i>:</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-secure"/></i>: </li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-store"/></i>:</li>
+        </ul>
+    </conbody>
+</concept>

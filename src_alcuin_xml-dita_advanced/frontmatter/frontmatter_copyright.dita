@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_pvv_ppz_k1b">
+  <title rev="alcuin">Copyright </title>
+  <refbody>
+    <section id="section_nxc_spz_k1b" rev="alcuin">
+      <p>© Copyright 2017 <ph conkeyref="library_productname_keys/k_ph_company"/></p>
+      <p>All rights reserved. No part of this publication may be reproduced, distributed, or
+        transmitted in any form or by any means, including photocopying, recording, or other
+        electronic or mechanical methods, without the prior written permission of the publisher,
+        except in the case of brief quotations embodied in critical reviews and certain other
+        noncommercial uses permitted by copyright law. </p>
+    </section>
+  </refbody>
+</reference>

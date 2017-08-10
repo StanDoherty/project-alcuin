@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"><concept id="c_mv_about_mobileview" xml:lang="en-us">
+   <title>About <ph conkeyref="library_productname_keys/k_ph_stormview-mobile"/></title>
+<!-- This Project Alcuin topic was derived from the Gnostyx Thunderbird project. -->
+<!-- See https://github.com/gnostyx/dita-demo-content-collection for original sources. -->
+  <conbody>
+      <p><ph conkeyref="library_productname_keys/k_ph_stormview-mobile"/> provides a single, mobile
+         interface for monitoring and managing cluster activity within <ph
+            conkeyref="library_productname_keys/k_ph_stormcenter"/>. </p>
+      <p>From the <ph conkeyref="library_productname_keys/k_ph_stormview-mobile"/> app you can
+         oversee cluster operations, monitor system performance, and diagnose problems within <ph
+            conkeyref="library_productname_keys/k_ph_stormcenter"/>. You can also create custom
+         views that present metrics specific to your project.</p>
+
+      
+   </conbody>
+</concept>

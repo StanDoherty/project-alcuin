@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tsw_lkd_5r">
+ <title><ph conkeyref="library_productname_keys/k_ph_stormview-console"/></title>
+    <conbody>
+        <p>This section introduces the <ph
+                conkeyref="library_productname_keys/k_ph_stormview-console"/>.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Frontmatter</title>
+ <topichead navtitle="Frontmatter">
+  <topicref href="frontmatter_copyright.dita"/>
+  <topicref href="frontmatter_patents.dita"/>
+  <topicref href="frontmatter_trademarks.dita"/>
+  <topicref href="frontmatter_disclaimer.dita"/>
+  <topicref href="frontmatter_typographic-conventions.dita"/>
+  <topicref href="frontmatter_reading-path.dita">
+   <topicref href="frontmatter_docfeedback.dita"/>
+  </topicref>
+ </topichead>
+</map>

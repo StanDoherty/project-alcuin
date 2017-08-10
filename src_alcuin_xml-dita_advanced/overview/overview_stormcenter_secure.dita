@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_j1x_rsf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter-secure"/></title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormcenter-secure"/> provides a combination
+            of account management and network security services for all <ph
+                conkeyref="library_productname_keys/k_ph_suite"/> services and applications. </p>
+        <p><image href="graphics/storm-center_secure.png" id="image_p3d_5sf_51b"/></p>
+        <p>In the larger context of <ph conkeyref="library_productname_keys/k_ph_suite"/>, <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-secure"/> does the
+            following:</p>
+        <ul id="ul_jjr_g4b_v1b">
+            <li>Provides enterprise-class accounr management.</li>
+            <li>Reports general capacity and performance metrics to <ph
+                    conkeyref="library_productname_keys/k_ph_stormcenter-report"/>.</li>
+        </ul>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormview"/> calls <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-report"/> to obtain the most
+            current data on system and user account security.</p>
+        <p><image href="graphics/complReportg.jpg" id="image_lym_tqh_v1b"/></p>
+    </conbody>
+</concept>

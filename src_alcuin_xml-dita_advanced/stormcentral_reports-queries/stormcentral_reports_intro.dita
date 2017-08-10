@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lxg_1cl_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter"/> reports and queries</title>
+    <conbody>
+        <p>This section introduces <ph conkeyref="library_productname_keys/k_ph_stormcenter"/>
+            reports and queries. </p>
+    </conbody>
+</concept>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_an5_c5f_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_suite"/> - the complete solution</title>
+    <!-- Some content in this Project Alcuin topic was derived from the Gnostyx Thunderbird project. -->
+    <!-- See https://github.com/gnostyx/dita-demo-content-collection for original sources. -->
+    <conbody>
+        <section id="section_mtx_smc_rr">
+            <p><ph conkeyref="library_productname_keys/k_ph_suite"/> combines powerful cluster
+                management services with a simple-to-use, intuitive front-end application. The
+                combination places control of the full resources of your computing infrastructure
+                into the hands of your team members and it does so in a way the establishes, and
+                sustains, the highest levels of security. </p>
+        </section>
+        <section id="section_p1h_jcz_qr">
+            <title>Key <ph conkeyref="library_productname_keys/k_ph_suite"/> benefits</title>
+            <p>
+                <ul id="ul_ewm_kmj_ae">
+                    <li>
+                        <p>Maximum flexibility</p>
+                    </li>
+                    <li>
+                        <p>Designed for extensibility</p>
+                    </li>
+                    <li>
+                        <p>Ease of management</p>
+                    </li>
+                    <li>
+                        <p>Extreme scalability</p>
+                    </li>
+                    <li>Intuitive reports and data visualizations</li>
+                    <li>
+                        <p>Industry-leading support</p>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_tjt_jcz_qr">
+            <title>Key <ph conkeyref="library_productname_keys/k_ph_suite"/> features</title>
+            <p>
+                <ul id="ul_qub_qmj_ae">
+                    <li>
+                        <p>Easy to use and manage for onsite administrators</p>
+                    </li>
+                    <li>
+                        <p>High performing, scalable architecture</p>
+                    </li>
+                    <li>
+                        <p>Comprehensive, intelligent scheduling policies</p>
+                    </li>
+                    <li>Complete customization flexibility for integrators</li>
+                    <li>
+                        <p>Heterogeneous platform support</p>
+                    </li>
+                    <li>
+                        <p>Continuous live data reporting services</p>
+                    </li>
+                    <li>
+                        <p>Robust security services</p>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_glb_kcz_qr">
+            <title>Component architecture delivers maximum scalability and flexibility</title>
+            <p><ph conkeyref="library_productname_keys/k_ph_suite"/> components become a powerful
+                workload management suite for demanding, distributed high-performance computing
+                environments. Not only is a complete set of workload management capabilities
+                available, but the reporting benefits of <ph
+                    conkeyref="library_productname_keys/k_ph_stormcenter-report"/> work to reduce
+                cycle times and maximize productivity in mission critical environments. Equipped
+                with <ph conkeyref="library_productname_keys/k_ph_stormview"/> client interfaces,
+                your system administration team and designated system users can collaborate to
+                coordinate their business priorities so that the overall effect is improved even
+                more.</p>
+        </section>
+    </conbody>
+</concept>

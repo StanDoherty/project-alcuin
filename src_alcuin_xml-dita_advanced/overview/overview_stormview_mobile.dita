@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qlc_ttf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormview-mobile"/></title>
+    <conbody>
+        <p>For administrators working on mobile devices, <ph
+                conkeyref="library_productname_keys/k_ph_stormview-mobile"/> provides full access
+            to all administrative functions supported by <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter"/>.  </p>
+        <p><image href="graphics/mobile.png" id="image_dlw_vvh_v1b"/></p>
+    </conbody>
+</concept>

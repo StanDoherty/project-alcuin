@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_c1z_qxk_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_cloud"/> overview</title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_cloud"/> provides a set of interfaces to the
+            following Cloud-specific services:</p>
+        <ul id="ul_erp_rt1_v1b">
+            <li><i>Cloud client interfaces</i>: The access and security interfaces required to allow
+                web clients, mobile apps, or dedicated management applications to interact with
+                Cloud services. </li>
+            <li><i>Cloud storage</i>: The storage interfaces that allow multiple clients to access
+                stored objects, be they physically configured to reside on a public cloud, priovate,
+                cloud or hybrid cloud. The cloud storage needs to be agile, flexible, scalable,
+                multi-tenancy, and secure.</li>
+            <li><i>Service-oriented delivery</i>:  The logical interfaces necessary to allow
+                Cloud-based services to become available to multiple clients and tenants – Software
+                as a service (SaaS), Development as a service (DaaS), Platform as a service (PaaS),
+                and Infrastructure as a service (IaaS). </li>
+        </ul>
+        <p><image href="graphics/stormcloud.png" id="image_i54_fhm_51b"/></p>
+        <p><ph conkeyref="library_productname_keys/k_ph_suite"/> administrators interact with <ph
+                conkeyref="library_productname_keys/k_ph_cloud"/> interfaces via <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter"/>. </p>
+   
+    </conbody>
+</concept>

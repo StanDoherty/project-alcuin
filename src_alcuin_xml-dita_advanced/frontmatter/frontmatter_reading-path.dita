@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_b4x_rj1_v1b">
+    <title>Documentation reading path</title>
+    <body>
+        <p>The <ph conkeyref="library_productname_keys/k_ph_suite"/> documentation set is available
+            for online browsing or for download at
+                <msgph>http://stormsystems.com/support/documentation</msgph>.   provides </p>
+        <section id="section_hsz_mk1_v1b">
+            <title><ph conkeyref="library_productname_keys/k_ph_suite"/> Release 4.3
+                documentation</title>
+            <p>Release 4.3 documentation contains the following publications.</p>
+            <ul id="ul_nnr_rk1_v1b">
+                <li>The <cite><ph conkeyref="library_productname_keys/k_ph_suite"/> Release
+                        Notes</cite> provide late-breaking infoprmation about the pre-requisites,
+                    installation, and operation of <ph
+                        conkeyref="library_productname_keys/k_ph_suite"/>. Read the <cite><ph
+                            conkeyref="library_productname_keys/k_ph_suite"/> Release Notes</cite>
+                    before all other <ph conkeyref="library_productname_keys/k_ph_suite"/>
+                    documentation. </li>
+                <li>The <cite><ph conkeyref="library_productname_keys/k_ph_suite"/> Installation
+                        Guide</cite> provides step-by-step instructions for installing and
+                    configuring <ph conkeyref="library_productname_keys/k_ph_suite"/> on your
+                    Windows or LINUX server. </li>
+                <li>The <cite><ph conkeyref="library_productname_keys/k_ph_suite"/> Administration
+                        Guide</cite> (this guide) provides an overview of all <ph
+                        conkeyref="library_productname_keys/k_ph_suite"/> components and detailed
+                    procedures for administering those <ph
+                        conkeyref="library_productname_keys/k_ph_suite"/> components.</li>
+                <li><cite><ph conkeyref="library_productname_keys/k_ph_suite"/>  REST API Developers
+                        Guide</cite> documents the <ph
+                        conkeyref="library_productname_keys/k_ph_stormview-restapi"/> and how you
+                    can use it to manage your <ph conkeyref="library_productname_keys/k_ph_suite"/>
+                    services.</li>
+            </ul>
+        </section>
+    </body>
+</topic>

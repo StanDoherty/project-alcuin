@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_x25_vsf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter-store"/></title>
+    <conbody>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormcenter-store"/> provides a master
+            inventory of storage devices and assets hosted in the Cloud or in a local Cluster. <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter-store"/> does not store
+            objects, but makes its global inventory of stored assets available by proxy to all <ph
+                conkeyref="library_productname_keys/k_ph_suite"/> applications and services. </p>
+        <p><image href="graphics/storm-center_store.png" id="image_jtx_xsf_51b"/></p>
+    </conbody>
+</concept>

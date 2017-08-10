@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>StormSuite Overview</title>
+ <topicref href="overview_glue.dita">
+  <topicref href="overview_hybrid_compute_environments.dita"/>
+  <topicref href="overview_stormsuite.dita">
+   <topicref href="overview_stormcloud_overview.dita"/>
+   <topicref href="overview_stormcluster_overview.dita"/>
+  </topicref>
+  <topicref href="overview_stormcenter.dita">
+   <topicref href="overview_stormcenter_analyzer.dita"/>
+   <topicref href="overview_stormcenter_backup.dita"/>
+   <topicref href="overview_stormcenter_balance.dita"/>
+   <topicref href="overview_stormcenter_report.dita"/>
+   <topicref href="overview_stormcenter_secure.dita"/>
+   <topicref href="overview_stormcenter_store.dita"/>
+  </topicref>
+  <topicref href="overview_stormview_intro.dita">
+   <topicref href="overview_stormview_console.dita"/>
+   <topicref href="overview_stormview_mobile.dita"/>
+   <topicref href="overview_stormview_rest-api.dita"/>
+  </topicref>
+  <topicref href="overview_stormsuite_conclusion.dita"/>
+ </topicref>
+</map>

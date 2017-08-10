@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_aft_32z_k1b">
+    <title rev="alcuin">Typographic conventions</title>
+    <refbody>
+        <section class="- topic/section " id="section_xsr_d31_v1b">
+            <p class="- topic/p ">
+                <ph conkeyref="library_productname_keys/k_ph_company"/> documentation uses the
+                following conventions to assist your reading.</p>
+        </section>
+        <section class="- topic/section " id="section_ysr_d31_v1b">
+            <title class="- topic/title ">General formatting</title>
+            <p class="- topic/p "><cmdname class="+ topic/keyword sw-d/cmdname ">Monospace
+                    font</cmdname> represents a command line syntax, file path, system output, or
+                similar code.</p>
+            <p class="- topic/p "><varname class="+ topic/keyword sw-d/varname ">Italic
+                    font</varname> represents a user-defined name or variable.</p>
+            <p class="- topic/p "><uicontrol class="+ topic/ph ui-d/uicontrol ">Bold
+                    font</uicontrol> represents a user interface element, such as a button or tab,
+                with which a user interacts.</p>
+        </section>
+        <section id="section_p23_fsx_dx" class="- topic/section ">
+            <title class="- topic/title ">Command line formatting</title>
+            <p class="- topic/p ">
+                <ph conkeyref="library_productname_keys/k_ph_company"/> documentation uses the
+                following format for CLI commands:</p>
+            <codeblock class="+ topic/pre pr-d/codeblock "> <cmdname class="+ topic/keyword sw-d/cmdname ">command</cmdname> <option class="+ topic/keyword pr-d/option ">--option</option> <varname class="+ topic/keyword sw-d/varname ">variable</varname></codeblock>
+            <p class="- topic/p ">where </p>
+            <ul id="ul_ol1_btx_dx" class="- topic/ul ">
+                <li class="- topic/li ">
+                    <p class="- topic/p "><cmdname class="+ topic/keyword sw-d/cmdname "
+                            >command</cmdname> is the name of the command and should be typed
+                        exactly as shown.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><option class="+ topic/keyword pr-d/option "
+                            >--option</option> is a command option and should be typed exactly as
+                        shown.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><varname class="+ topic/keyword sw-d/varname "
+                            >variable</varname> is an option variable and should be replaced with
+                        the required value.</p>
+                </li>
+            </ul>
+        </section>
+        <section class="- topic/section " id="section_zsr_d31_v1b">
+            <title class="- topic/title ">Informational Alerts</title>
+            <table frame="none" rowsep="0" colsep="0" id="table_q4s_cn4_vx" class="- topic/table ">
+                <tgroup cols="1" class="- topic/tgroup ">
+                    <colspec colname="c3" colnum="1" colwidth="7.09*" rowheader="headers"
+                        class="- topic/colspec "/>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry ">
+                                <note type="warning" class="- topic/note ">
+                                    <p class="- topic/p ">Alerts you to the risk of bodily injury,
+                                        damage to hardware or software, loss of warranty, or loss of
+                                        data. </p>
+                                </note>
+                            </entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry ">
+                                <note type="caution" class="- topic/note ">
+                                    <p class="- topic/p ">Alerts you to the risk of data
+                                        unavailability or possible issues with regard to security,
+                                        performance, or configuration. </p>
+                                </note>
+                            </entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry ">
+                                <note type="note" class="- topic/note ">
+                                    <p class="- topic/p ">Indicates information that is supplemental
+                                        or that may require additional attention.</p>
+                                </note>
+                            </entry>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry ">
+                                <note type="tip" class="- topic/note ">
+                                    <p class="- topic/p ">Provides helpful information such as best
+                                        practices.</p>
+                                </note>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

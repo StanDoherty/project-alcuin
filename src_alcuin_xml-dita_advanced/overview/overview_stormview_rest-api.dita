@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_whq_wtf_51b">
+    <title><ph conkeyref="library_productname_keys/k_ph_stormview-restapi"/></title>
+    <conbody>
+        <p>For application developers and integrators, <ph
+                conkeyref="library_productname_keys/k_ph_stormview-restapi"/> provides full access to
+            all administrative functions supported by <ph
+                conkeyref="library_productname_keys/k_ph_stormcenter"/>. </p>
+        <p><image href="graphics/rest-api.png" id="image_vhm_ywh_v1b"/></p>
+    </conbody>
+</concept>
