@@ -5,7 +5,7 @@
     <body>
         <p>This section introduces <ph conkeyref="library_productname_keys/k_ph_stormview"/> and
             provides an overview of the three <ph
-                conkeyref="library_productname_keys/k_ph_stormview"/> inetrfaces available to you in
+                conkeyref="library_productname_keys/k_ph_stormview"/> interfaces available to you in
                 <ph conkeyref="library_productname_keys/k_ph_suite"/>.</p>
     </body>
 </topic>

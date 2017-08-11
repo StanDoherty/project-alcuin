@@ -4,7 +4,7 @@
     <title>Parts of the <ph conkeyref="library_productname_keys/k_ph_stormview-console"/>
         interface</title>
     <body>
-        <p>The <ph conkeyref="library_productname_keys/k_ph_stormview-console"/> interface upports
+        <p>The <ph conkeyref="library_productname_keys/k_ph_stormview-console"/> interface supports
             the following elements. </p>
         <p><image href="graphics/console-wireframe.png" id="image_y2t_bcn_v1b"/></p>
     </body>

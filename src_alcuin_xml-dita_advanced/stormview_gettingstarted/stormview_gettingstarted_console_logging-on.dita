@@ -5,7 +5,8 @@
 <!-- See https://github.com/gnostyx/dita-demo-content-collection for original sources. -->
     <taskbody>
         <prereq>
-            <p>Make sure that you have your username, password, and the name of the server that you want to connect to.</p>
+            <p>Make sure that you have your username, password, and the name of the server to which
+                you want to connect.</p>
         </prereq>
         <context>
             <p>Once you are logged on, you can log off and disconnect from a particular project
