@@ -5,18 +5,18 @@
         world </title>
     <conbody>
         <p><ph conkeyref="library_productname_keys/k_ph_suite"/> addresses this primary source of
-            cost and disruption -- the need to deploy Cloud-specific or Cluster-specific management
-            infrastructure. With <ph conkeyref="library_productname_keys/k_ph_suite"/>, you can
-            deploy one management infrastructure (<ph
+            cost and disruption -- the need to maintain both Cloud-specific or Cluster-specific
+            management infrastructure. With <ph conkeyref="library_productname_keys/k_ph_suite"/>,
+            you can deploy one management infrastructure (<ph
                 conkeyref="library_productname_keys/k_ph_stormcenter"/>) designed to support
             services that are deployed on the Cloud and on Clusters. <ph
                 conkeyref="library_productname_keys/k_ph_cloud"/> and <ph
                 conkeyref="library_productname_keys/k_ph_cluster"/> provide the interface between
             the shared <ph conkeyref="library_productname_keys/k_ph_stormcenter"/> management
             services and Cloud-specific or Cluster-specific environment. </p>
-        <p><image href="graphics/storm-suite_02.png" id="image_rfz_xpf_51b"/></p>
+        <p><image href="graphics/storm-suite_05.png" id="image_n4s_1cq_v1b"/></p>
         <p>To build out that complex, high-speed data center and hybrid Cloud infrastructure, you do
-            not need to develop dozens of specialized tools and applications -- <ph
+            not need to develop a library  of specialized tools and applications -- <ph
                 conkeyref="library_productname_keys/k_ph_stormcenter"/> provides it all. </p>
     </conbody>
 </concept>

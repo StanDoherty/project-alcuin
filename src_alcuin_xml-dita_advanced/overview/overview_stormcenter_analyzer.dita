@@ -5,7 +5,7 @@
     </title>
     <conbody>
         <p><ph conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/> provides central
-            administration for resources hosted on the Cloud or in the Cluster. </p>
+            administration for resources hosted on the Cloud or in your  Cluster. </p>
         <p><image href="graphics/storm-center_analyzer.png" id="image_xgp_prf_51b"/></p>
         <p>In the larger context of <ph conkeyref="library_productname_keys/k_ph_suite"/>, <ph
                 conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/> does the

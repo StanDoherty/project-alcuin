@@ -10,9 +10,9 @@
                 web clients, mobile apps, or dedicated management applications to interact with
                 Cloud services. </li>
             <li><i>Cloud storage</i>: The storage interfaces that allow multiple clients to access
-                stored objects, be they physically configured to reside on a public cloud, priovate,
-                cloud or hybrid cloud. The cloud storage needs to be agile, flexible, scalable,
-                multi-tenancy, and secure.</li>
+                stored objects, be they physically residing on a public cloud, private cloud, or
+                hybrid cloud. The cloud storage needs to be agile, flexible, scalable, multi-tenant,
+                and secure.</li>
             <li><i>Service-oriented delivery</i>:  The logical interfaces necessary to allow
                 Cloud-based services to become available to multiple clients and tenants – Software
                 as a service (SaaS), Development as a service (DaaS), Platform as a service (PaaS),

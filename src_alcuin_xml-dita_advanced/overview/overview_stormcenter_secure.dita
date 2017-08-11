@@ -11,13 +11,13 @@
                 conkeyref="library_productname_keys/k_ph_stormcenter-secure"/> does the
             following:</p>
         <ul id="ul_jjr_g4b_v1b">
-            <li>Provides enterprise-class accounr management.</li>
+            <li>Provides enterprise-class account management.</li>
             <li>Reports general capacity and performance metrics to <ph
                     conkeyref="library_productname_keys/k_ph_stormcenter-report"/>.</li>
         </ul>
         <p><ph conkeyref="library_productname_keys/k_ph_stormview"/> calls <ph
                 conkeyref="library_productname_keys/k_ph_stormcenter-report"/> to obtain the most
-            current data on system and user account security.</p>
-        <p><image href="graphics/complReportg.jpg" id="image_lym_tqh_v1b"/></p>
+            current data on system and user-account security.</p>
+        <p><image href="graphics/complReportg.jpg" id="image_lym_tqh_v1b" scalefit="yes"/></p>
     </conbody>
 </concept>

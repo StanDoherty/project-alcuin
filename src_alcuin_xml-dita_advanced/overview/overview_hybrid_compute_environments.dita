@@ -5,9 +5,9 @@
     <conbody>
         <p>As Cloud computing matures into a mission-critical component for IT organizations, the
             breadth and types of services migrating to the Cloud are increasing. IT organizations
-            are being asked to develop and maintain parallel services on both Cloud and Cluster
-            platforms. Increasingly, IT organizations are necessarily hybrid Cloud/Cluster
-            organizations. </p>
+            are being asked to develop and maintain parallel services in both Cloud and Cluster
+            environments. Increasingly, IT organizations are doubling their overhead by needing to
+            develop redundant services for both Cloud and Cluster environments. It canot scale. </p>
         <p><image href="graphics/storm-suite_01.png" id="image_wgc_4pf_51b"/></p>
         <p>What will differentiate successful hybrid IT organizations will the ability to streamline
             and consolidate the management of hybrid (parallel) services without compromising

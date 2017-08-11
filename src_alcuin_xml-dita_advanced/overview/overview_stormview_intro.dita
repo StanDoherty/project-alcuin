@@ -10,8 +10,8 @@
             that consistent, complete, and elegant interface for <ph
                 conkeyref="library_productname_keys/k_ph_suite"/> adminstrators. </p>
         <p><image href="graphics/storm-suite_05.png" id="image_emf_htf_51b"/></p>
-        <p><ph conkeyref="library_productname_keys/k_ph_stormview"/> provides three,
-            equally-functional interfaces:</p>
+        <p><ph conkeyref="library_productname_keys/k_ph_stormview"/> provides three, functionally
+            equivalent interfaces:</p>
         <ul id="ul_yyf_1vh_v1b">
             <li><ph conkeyref="library_productname_keys/k_ph_stormview-console"/>: Desktop graphical
                 console</li>

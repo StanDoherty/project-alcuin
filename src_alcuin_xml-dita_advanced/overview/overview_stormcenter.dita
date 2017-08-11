@@ -10,12 +10,18 @@
         <p>One set of interfaces and services to perform the following management tasks in a hybrid
             environment:</p>
         <ul id="ul_pqh_bnb_v1b">
-            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/></i>: </li>
-            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-backup"/></i>:</li>
-            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-balance"/></i>:</li>
-            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-report"/></i>:</li>
-            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-secure"/></i>: </li>
-            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-store"/></i>:</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-analyzer"/></i>:
+                description.</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-backup"/></i>:
+                description.</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-balance"/></i>:
+                description.</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-report"/></i>:
+                description.</li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-secure"/></i>:
+                description. </li>
+            <li><i><ph conkeyref="library_productname_keys/k_ph_stormcenter-store"/></i>:
+                description.</li>
         </ul>
     </conbody>
 </concept>
