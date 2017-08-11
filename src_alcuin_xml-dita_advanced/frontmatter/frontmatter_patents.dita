@@ -12,8 +12,9 @@
                 <li>US Patent No. 3,333,333 (14 July 2012) and other US Patents applied for by <ph
                         conkeyref="library_productname_keys/k_ph_company"/>. </li>
             </ul>
-            <p>Please contact Software Research for information about licensing <ph
-                    conkeyref="library_productname_keys/k_ph_company"/> products or technology.</p>
+            <p>Please contact <ph conkeyref="library_productname_keys/k_ph_company"/> for
+                information about licensing <ph conkeyref="library_productname_keys/k_ph_company"/>
+                products or technology.</p>
         </section>
     </refbody>
 </reference>

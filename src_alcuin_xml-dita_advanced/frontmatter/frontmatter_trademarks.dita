@@ -4,9 +4,10 @@
     <title rev="alcuin">Trademarks</title>
     <refbody>
         <section rev="alcuin" id="section_csq_bmz_k1b">
-            <p>The following names are trademarks or registered trademarks of Software Research,
-                Inc.:</p>
-            <p><ph conkeyref="library_productname_keys/k_ph_suite"/>™, <ph
+            <p>The following names are trademarks or registered trademarks of <ph
+                    conkeyref="library_productname_keys/k_ph_company"/>:</p>
+            <p><ph conkeyref="library_productname_keys/k_ph_company"/>™, <ph
+                    conkeyref="library_productname_keys/k_ph_suite"/>™, <ph
                     conkeyref="library_productname_keys/k_ph_cluster">™</ph>™, <ph
                     conkeyref="library_productname_keys/k_ph_cloud"/>™, and <ph
                     conkeyref="library_productname_keys/k_ph_stormview"/>™ and trademarks of <ph

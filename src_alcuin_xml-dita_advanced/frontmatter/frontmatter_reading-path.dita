@@ -5,14 +5,14 @@
     <body>
         <p>The <ph conkeyref="library_productname_keys/k_ph_suite"/> documentation set is available
             for online browsing or for download at
-                <msgph>http://stormsystems.com/support/documentation</msgph>.   provides </p>
+                <msgph>http://stormsystems.com/support/documentation</msgph>. </p>
         <section id="section_hsz_mk1_v1b">
             <title><ph conkeyref="library_productname_keys/k_ph_suite"/> Release 4.3
                 documentation</title>
             <p>Release 4.3 documentation contains the following publications.</p>
             <ul id="ul_nnr_rk1_v1b">
                 <li>The <cite><ph conkeyref="library_productname_keys/k_ph_suite"/> Release
-                        Notes</cite> provide late-breaking infoprmation about the pre-requisites,
+                        Notes</cite> provide late-breaking information about the pre-requisites,
                     installation, and operation of <ph
                         conkeyref="library_productname_keys/k_ph_suite"/>. Read the <cite><ph
                             conkeyref="library_productname_keys/k_ph_suite"/> Release Notes</cite>

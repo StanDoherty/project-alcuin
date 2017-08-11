@@ -23,7 +23,8 @@
             <title class="- topic/title ">Command line formatting</title>
             <p class="- topic/p ">
                 <ph conkeyref="library_productname_keys/k_ph_company"/> documentation uses the
-                following format for CLI commands:</p>
+                following format for <ph conkeyref="library_productname_keys/k_ph_stormview-restapi"
+                /> statements:</p>
             <codeblock class="+ topic/pre pr-d/codeblock "> <cmdname class="+ topic/keyword sw-d/cmdname ">command</cmdname> <option class="+ topic/keyword pr-d/option ">--option</option> <varname class="+ topic/keyword sw-d/varname ">variable</varname></codeblock>
             <p class="- topic/p ">where </p>
             <ul id="ul_ol1_btx_dx" class="- topic/ul ">
