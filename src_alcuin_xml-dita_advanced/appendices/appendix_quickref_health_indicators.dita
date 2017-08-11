@@ -10,8 +10,8 @@
 				<title>System health indicators</title>
 				<tgroup cols="3">
 					<colspec colnum="1" colname="col2" colwidth="1*"/>
-					<colspec colnum="2" colname="col3" colwidth="1.02*"/>
-					<colspec colnum="3" colname="col4" colwidth="1.53*"/>
+					<colspec colnum="2" colname="col3" colwidth="1.08*"/>
+					<colspec colnum="3" colname="col4" colwidth="2.54*"/>
 					<thead>
 						<row>
 							<entry colname="col2">

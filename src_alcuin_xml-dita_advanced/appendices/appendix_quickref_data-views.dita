@@ -9,8 +9,8 @@
 			<table>
 				<title>Data views</title>
 				<tgroup cols="2">
-					<colspec colnum="1" colname="col2" colwidth="1.06*"/>
-					<colspec colnum="2" colname="col3" colwidth="1.06*"/>
+					<colspec colnum="1" colname="col2" colwidth="1*"/>
+					<colspec colnum="2" colname="col3" colwidth="1.62*"/>
 					<thead>
 						<row>
 							<entry colname="col2">
@@ -73,7 +73,7 @@
 							</entry>
 						</row>
 						<row>
-							<entry colname="col2">								
+							<entry colname="col2">
 								<p>Job progress</p>
 							</entry>
 							<entry colname="col3">
