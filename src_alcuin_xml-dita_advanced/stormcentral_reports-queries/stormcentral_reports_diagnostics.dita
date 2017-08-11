@@ -6,8 +6,8 @@
 <!-- See https://github.com/gnostyx/dita-demo-content-collection for original sources. -->
  <conbody>
   <p>The <uicontrol>Troubleshooting</uicontrol> sub-tab provides a data view for cluster modules
-      actively engaged with your project's tasks. The data views provide details regarding the
-      current status and projected performance of the cluster modules.</p>
+      actively engaged with your project tasks. The data views provide details regarding the current
+      status and projected performance of the cluster modules.</p>
     <p>The System Diagnostic troubleshooting agent will run a series of interactive tests to
       identify and isolate problems within the <ph
         conkeyref="library_productname_keys/k_ph_stormcenter"/> grid. A typical interaction would
