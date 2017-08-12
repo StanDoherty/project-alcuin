@@ -1,0 +1,10 @@
+# Hybrid compute environments {#concept_r4t_fpf_51b .concept}
+
+As Cloud computing matures into a mission-critical component for IT organizations, the breadth and types of services migrating to the Cloud are increasing. IT organizations are being asked to develop and maintain parallel services in both Cloud and Cluster environments. Increasingly, IT organizations are doubling their overhead by needing to develop redundant services for both Cloud and Cluster environments. It canot scale.
+
+![](graphics/storm-suite_01.png)
+
+What will differentiate successful hybrid IT organizations will the ability to streamline and consolidate the management of hybrid \(parallel\) services without compromising security, scalability, or efficiency \(cost\). If each parallel, hybrid service requires redundant or duplicate management infrastructure, hybrid IT organizations will not be able to support Cloud migration without significant costs and disruption.
+
+**Parent topic:**[StormSuite overview](../overview/overview_glue.html)
+
