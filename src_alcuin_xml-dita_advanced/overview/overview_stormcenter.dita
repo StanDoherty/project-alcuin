@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ufb_zpf_51b">
-    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter"/> - unified services and APIs </title>
+    <title><ph conkeyref="library_productname_keys/k_ph_stormcenter"/> - unified services and APIs  </title>
     <conbody>
         <p><ph conkeyref="library_productname_keys/k_ph_stormcenter"/> provides a unified suite of
             services that can deploy, manage, monitor, and balance resources that reside on a Cloud
