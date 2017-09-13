@@ -6,7 +6,7 @@
       <context>
          <p>A cluster that is not properly configured is displayed in yellow. A cluster that is
         offline is displayed in red. The <uicontrol>Diagnostic</uicontrol> tool can help you troubleshoot the
-        problem with the cluster.</p>
+        problem with the cluster. </p>
       </context>
       <steps>
          <stepsection>To troubleshoot a cluster:</stepsection>
