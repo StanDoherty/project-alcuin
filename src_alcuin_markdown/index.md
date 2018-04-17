@@ -48,4 +48,3 @@
     -   [System notifications](appendices/appendix_system-notifications.md)
     -   [Quick reference: data views](appendices/appendix_quickref_data-views.md)
     -   [Quick reference: system health indicators](appendices/appendix_quickref_health_indicators.md)
-
