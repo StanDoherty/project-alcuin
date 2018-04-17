@@ -11,4 +11,4 @@ Project Alcuin is an industry-academic collaboration to develop technical commun
 1. Detailed writing exercises based on the sample content and assessment guidelines
 1. Community-sourced content development, maintenance, and curation (GitHub)
 
- 
+To get involved, please contact Stan Doherty at stan@modularwriting.com. 
