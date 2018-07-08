@@ -4,8 +4,9 @@
     <title>StormCentral reports and queries</title>
     <topicref href="stormcentral_reports_intro.dita">
         <topicref href="stormcentral_reports_diagnostics.dita"/>
-        <topicref href="stormcentral_queries_filters.dita"/>
-        <topicref href="stormcentral_queries_messages.dita"/>
+		
+<!--        <topicref href="stormcentral_queries_filters.dita"/>
+        <topicref href="stormcentral_queries_messages.dita"/> -->
         <topicref href="stormcentral_reports_cluster-capacity.dita"/>
         <topicref href="stormcentral_reports_performance.dita"/>
     </topicref>
