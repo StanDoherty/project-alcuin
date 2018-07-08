@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Project Alcuin - XML DITA Advanced</title>
+ <mapref href="frontmatter/map_frontmatter.ditamap"/>
+ <mapref href="overview/map_overview.ditamap"/>
+ <topicref href="stormview_gettingstarted/map_stormview-gettingstarted.ditamap" format="ditamap"/>
+ <!-- <topicref href="appendices/map_appendices.ditamap" format="ditamap"/> -->
+ <topichead navtitle="Resource-Only Objects" processing-role="resource-only">
+  <topicref href="./x_authoring/authoring_key-gallery.dita"/>
+  <topicref href="./map-keys_project-alcuin.ditamap" format="ditamap"/>
+  <topicref href="./x_templates/map_topic-templates.ditamap" format="ditamap"/>
+ </topichead>
+</map>
