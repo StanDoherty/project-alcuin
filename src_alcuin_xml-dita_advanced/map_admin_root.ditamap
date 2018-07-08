@@ -4,9 +4,9 @@
  <title>Project Alcuin - XML DITA Advanced</title>
  <mapref href="frontmatter/map_frontmatter.ditamap"/>
  <mapref href="overview/map_overview.ditamap"/>
- <topicref href="stormview_gettingstarted/map_stormview-gettingstarted.ditamap" format="ditamap"/>
+ <!--<topicref href="stormview_gettingstarted/map_stormview-gettingstarted.ditamap" format="ditamap"/>
  <topicref href="stormcentral_reports-queries/map_stormcentral_reports-queries.ditamap"
-  format="ditamap"/>
+  format="ditamap"/> -->
  <topicref href="troubleshooting/map_troubleshooting.ditamap" format="ditamap"/>
  <topicref href="appendices/map_appendices.ditamap" format="ditamap"/>
  <topichead navtitle="Resource-Only Objects" processing-role="resource-only">
