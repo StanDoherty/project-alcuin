@@ -10,8 +10,8 @@
  <topicref href="troubleshooting/map_troubleshooting.ditamap" format="ditamap"/>
  <topicref href="appendices/map_appendices.ditamap" format="ditamap"/>
  <topichead navtitle="Resource-Only Objects" processing-role="resource-only">
-  <topicref href="./x_authoring/authoring_key-gallery.dita"/>
+  <topicref href="./resources_authoring/authoring_key-gallery.dita"/>
   <topicref href="./map-keys_project-alcuin.ditamap" format="ditamap"/>
-  <topicref href="./x_templates/map_topic-templates.ditamap" format="ditamap"/>
+  <topicref href="./resources_templates/map_topic-templates.ditamap" format="ditamap"/>
  </topichead>
 </map>
