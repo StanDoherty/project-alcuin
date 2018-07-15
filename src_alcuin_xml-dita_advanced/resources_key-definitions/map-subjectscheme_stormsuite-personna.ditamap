@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+<!-- mapsubjectScheme_taxonomy.ditamap -->
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle>Thunderbird StormSuite Personna</navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <subjectdef keys="subject_admin">
+       <subjectdef keys="admin-new"/>
+       <subjectdef keys="admin-architect"/>
+       <subjectdef keys="admin-content">
+            <subjectdef keys="admin-content-streaming"/>
+            <subjectdef keys="admin-content-vod"/>
+            <subjectdef keys="admin-content-swupdates"/>
+       </subjectdef>
+    </subjectdef>
+</subjectScheme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>StormSuite - graphic key definitions</title>
+ 
+<keydef keys="k_image_thunderstorm-logo" href="../overview/graphics/logo_thunderstorm_basic.png" format="png"/>
+<keydef keys="k_image_smartsuite-logo" href="../overview/graphics/logo_stormsuite_01.png" format="png"/>
+ 
+</map>

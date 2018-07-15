@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+<title>StormSuite - web navigation key definitions</title>
+
+<!-- <keydef keys="k_link_svt-customer-support" href="https://www.simplivity.com/company/support" /> -->
+<topicref keys="k_link_svt-customer-support" href="https://www.simplivity.com/company/support" format="html" scope="external">
+  <topicmeta>
+    <linktext>Customer Support</linktext>
+  </topicmeta>
+</topicref>
+
+</map>

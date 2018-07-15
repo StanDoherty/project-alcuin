@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "http://docs.oasis-open.org/dita/v1.2/OS/dtd/reference.dtd">
+<reference id="library_productname_keys">
+  <title>StormSuite product name variables</title>
+  <refbody>
+
+<section>
+<title>Basic product terminology keydefs</title>
+
+<p>k_ph_name: <ph id="k_ph_name">value</ph></p>
+
+<p>k_ph_company: <ph id="k_ph_company">StormSystems Inc.</ph></p>
+<p>k_ph_suite: <ph id="k_ph_suite">StormSuite</ph></p>
+<p>k_ph_cluster: <ph id="k_ph_cluster">StormCluster</ph></p>
+<p>k_ph_cloud: <ph id="k_ph_cloud">StormCloud</ph></p>
+
+<p>k_ph_stormview: <ph id="k_ph_stormview">StormView</ph></p>
+<p>k_ph_stormview-console: <ph id="k_ph_stormview-console">StormView-Console</ph></p>
+<p>k_ph_stormview-mobile: <ph id="k_ph_stormview-mobile">StormView-Mobile</ph></p>
+<p>k_ph_stormview-restapi: <ph id="k_ph_stormview-restapi">StormView-REST-API</ph></p>
+
+<p>k_ph_stormcenter: <ph id="k_ph_stormcenter">StormCenter</ph></p>
+<p>k_ph_stormcenter-analyzer: <ph id="k_ph_stormcenter-analyzer">StormCenter-Analyzer</ph></p>
+<p>k_ph_stormcenter-backup: <ph id="k_ph_stormcenter-backup">StormCenter-Backup</ph></p>
+<p>k_ph_stormcenter-balance: <ph id="k_ph_stormcenter-balance">StormCenter-Balance</ph></p>
+<p>k_ph_stormcenter-report: <ph id="k_ph_stormcenter-report">StormCenter-Report</ph></p>
+<p>k_ph_stormcenter-secure: <ph id="k_ph_stormcenter-secure">StormCenter-Secure</ph></p>
+<p>k_ph_stormcenter-store: <ph id="k_ph_stormcenter-store">StormCenter-Store</ph></p>
+
+</section>
+    </refbody>
+</reference>
