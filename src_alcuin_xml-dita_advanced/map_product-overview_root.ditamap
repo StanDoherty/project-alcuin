@@ -3,11 +3,6 @@
 <map>
  <title>StormSuite Product Overview Guide</title>
  <mapref href="frontmatter/map_frontmatter.ditamap"/>
- <mapref href="overview/map_overview.ditamap"/>
- <!--<topicref href="stormview_gettingstarted/map_stormview-gettingstarted.ditamap" format="ditamap"/>
- <topichead navtitle="Resource-Only Objects" processing-role="resource-only">
-  <topicref href="./resources_authoring/authoring_key-gallery.dita"/>
-  <topicref href="./map-keys_project-alcuin.ditamap" format="ditamap"/>
-  <topicref href="./resources_templates/map_topic-templates.ditamap" format="ditamap"/>
- </topichead>
-</map>
+ <topicref href="stormsuite-overview/suite-overview_top.dita"/>
+ <!--<topicref href="stormview_gettingstarted/map_stormview-gettingstarted.ditamap" format="ditamap"/> -->
+ </map>
