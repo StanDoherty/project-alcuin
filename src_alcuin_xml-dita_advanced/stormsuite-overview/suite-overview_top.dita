@@ -5,7 +5,7 @@
     <body>
         <p/>
         <section id="section_qfn_c33_n2b">
-            <title>Hybrid compute environmentstbd</title>
+            <title>Hybrid compute environments</title>
             <p>As Cloud computing matures into a mission-critical component for IT organizations,
                 the breadth and types of services migrating to the Cloud are increasing. IT
                 organizations are being asked to develop and maintain parallel services in both
@@ -18,6 +18,13 @@
                 service requires redundant or duplicate management infrastructure, hybrid IT
                 organizations will not be able to support Cloud migration without significant costs
                 and disruption.</p>
+            <fig id="fig_n2v_lcp_n2b">
+                <title>Hybrid infrastructures</title>
+                <image href="../graphics/diagram_architecture_01.png" placement="break"
+                    id="image_o2p_4cp_n2b">
+                    <alt>Alt text</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_nml_d33_n2b">
             <title>StormSuite - integrated solutions for a hybrid world</title>
@@ -30,6 +37,31 @@
             <p>To build out that complex, high-speed data center and hybrid Cloud infrastructure,
                 you do not need to develop a library of specialized tools and applications --
                 StormCenter provides it all.</p>
+        </section>
+        <section id="section_s4m_d33_n2b">
+            <title>StormCluster overview</title>
+            <p>StormCluster provides a set of interfaces to the following Cluster-specific
+                services:</p>
+            <ul id="ul_m4m_yq3_n2b">
+                <li>
+                    <p>Network-attached storage</p>
+                </li>
+                <li>
+                    <p>Redundancy-aware node configurations</p>
+                </li>
+                <li>
+                    <p>Failover and disaster-recovery policies</p>
+                </li>
+                <li>
+                    <p>StormSuite administrators interact with StormCloud interfaces via
+                        StormCenter.</p>
+                </li>
+            </ul>
+            <fig id="fig_pjm_wcp_n2b">
+                <title>StormCluster</title>
+                <image placement="break" href="../graphics/diagram_architecture_02.png"
+                    id="image_ssb_ycp_n2b"><alt>StormCluster</alt></image>
+            </fig>
         </section>
         <section id="section_gbm_d33_n2b">
             <title>StormCloud overview</title>
@@ -54,31 +86,25 @@
                 </li>
             </ul>
             <p>StormSuite administrators interact with StormCloud interfaces via StormCenter.</p>
-        </section>
-        <section id="section_s4m_d33_n2b">
-            <title>StormCluster overview</title>
-            <p>StormCluster provides a set of interfaces to the following Cluster-specific
-                services:</p>
-            <ul id="ul_m4m_yq3_n2b">
-                <li>
-                    <p>Network-attached storage</p>
-                </li>
-                <li>
-                    <p>Redundancy-aware node configurations</p>
-                </li>
-                <li>
-                    <p>Failover and disaster-recovery policies</p>
-                </li>
-                <li>
-                    <p>StormSuite administrators interact with StormCloud interfaces via
-                        StormCenter.</p>
-                </li>
-            </ul>
+            <fig id="fig_nbj_qcp_n2b">
+                <title>StormCloud</title>
+                <image placement="break" href="../graphics/diagram_architecture_03.png"
+                    id="image_lwf_tcp_n2b">
+                    <alt>StormCloud</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_l1n_d33_n2b">
             <title>StormCenter - unified services and APIs</title>
             <p>StormCenter provides a unified suite of services that can deploy, manage, monitor,
                 and balance resources that reside on a Cloud or on a local Cluster.</p>
+            <fig id="fig_as1_cdp_n2b">
+                <title>StormCenter</title>
+                <image placement="break" href="../graphics/diagram_architecture_04.png"
+                    id="image_rjr_ddp_n2b">
+                    <alt>StrormCenter</alt>
+                </image>
+            </fig>
             <p>One set of interfaces and services to perform the following management tasks in a
                 hybrid environment:</p>
             <ul id="ul_xnd_2r3_n2b">
@@ -99,6 +125,34 @@
                 </li>
                 <li>
                     <p>StormCenter-Store: description.</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_dmj_fdp_n2b">
+            <title>StormCenter-Admin</title>
+            <p>xx</p>
+            <p>In the larger context of StormSuite, StormCenter-Admin provides:</p>
+            <ul id="ul_v4n_ldp_n2b">
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
                 </li>
             </ul>
         </section>
