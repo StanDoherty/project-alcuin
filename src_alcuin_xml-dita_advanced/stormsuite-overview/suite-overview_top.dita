@@ -3,21 +3,40 @@
 <topic id="topic_lrt_xg3_n2b">
     <title>Product Overview</title>
     <body>
-        <p/>
+        <p>Welcome to the <cite>StormSuite Product Overview Guide</cite>. This publication provides
+            an overview of StormSuite, its supporting components, and the ways that it can address
+            your hybrid infrastructure challenges.</p>
         <section id="section_qfn_c33_n2b">
-            <title>Hybrid compute environments</title>
-            <p>As Cloud computing matures into a mission-critical component for IT organizations,
-                the breadth and types of services migrating to the Cloud are increasing. IT
-                organizations are being asked to develop and maintain parallel services in both
-                Cloud and Cluster environments. Increasingly, IT organizations are doubling their
-                overhead by needing to develop redundant services for both Cloud and Cluster
-                environments. It cannot scale.</p>
-            <p>What will differentiate successful hybrid IT organizations will the ability to
-                streamline and consolidate the management of hybrid (parallel) services without
-                compromising security, scalability, or efficiency (cost). If eachparallel, hybrid
-                service requires redundant or duplicate management infrastructure, hybrid IT
-                organizations will not be able to support Cloud migration without significant costs
-                and disruption.</p>
+            <title>Hybrid infrastructure</title>
+            <p>Whether your organization is transitioning all its services to a cloud-based
+                infrastructure or blending on-prem and cloud infrastructures to manage bursts in
+                demand, you are in the working your way through the major challenges of hybrid
+                infrastructure management.</p>
+            <ul id="ul_dlx_5hk_42b">
+                <li>
+                    <p>Lack of alignment between cloud and on-prem management APIs.</p>
+                </li>
+                <li>
+                    <p>Lack of unified reporting capacity, availability, and efficiency reporting
+                        across cloud and on-prem infrastructures. </p>
+                </li>
+                <li>
+                    <p>Lack of comprehensive resource monitoring across cloud and on-prem
+                        infrastructures. </p>
+                </li>
+                <li>
+                    <p>Redundant management interfaces. </p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+                <li>
+                    <p>x</p>
+                </li>
+            </ul>
             <fig id="fig_n2v_lcp_n2b">
                 <title>Hybrid infrastructures</title>
                 <image href="../graphics/diagram_architecture_01.png" placement="break"
@@ -25,18 +44,39 @@
                     <alt>Alt text</alt>
                 </image>
             </fig>
+            <p>Although the resources that you make available to your clients run on different
+                infrastructures, the management services that you design, implement, and maintain
+                for those infrastructures need not be redundant. You can build hybrid
+                infrastructures without redundant management services for those on-prem or cloud
+                resources. With StormSuite, you can build out and scale a hybrid infrastructure as
+                easily as an exclusively on-prem or exclusively cloud infrastructure. What will
+                differentiate successful hybrid IT organizations will be the ability to streamline
+                and consolidate the management of hybrid (parallel) services without compromising
+                security, scalability, or efficiency (cost). </p>
         </section>
         <section id="section_nml_d33_n2b">
-            <title>StormSuite - integrated solutions for a hybrid world</title>
-            <p>StormSuite addresses this primary source of cost and disruption -- the need to
-                maintain both Cloud-specific or Cluster-specific management infrastructure. With
-                StormSuite, you can deploy one management infrastructure (StormCenter) designed to
-                support services that are deployed on the Cloud and on Clusters. StormCloud and
-                StormCluster provide the interface between the shared StormCenter management
-                services and Cloud-specific or Cluster-specific environment.</p>
-            <p>To build out that complex, high-speed data center and hybrid Cloud infrastructure,
-                you do not need to develop a library of specialized tools and applications --
-                StormCenter provides it all.</p>
+            <title>The StormSuite approach</title>
+            <p>The key to making a hybrid infrastructure work is aligning abstract and physical
+                APIs. At StormSystems Inc. we do APIs – lots of them. For example, our StormProxy
+                API builds an array of objects for StormCluster that serve as proxies to the
+                physical resources available in an on-prem, clustered network. For each physical
+                resource, there is a corresponding proxy object that maintains state. </p>
+            <p>[Diagram - StormProxy for on-prem]</p>
+            <p>One API manages resource discovery, another manages parallel state monitoring, and
+                yet another exposes this  proxy information to hybrid management services such
+                StormCenter. Similarly, StormProxy uses a different set of APIs in StormCloud to
+                build its proxy array of cloud-based resources – be they managed through Kubernetes
+                containerized services or more traditional PaaS (Platform as a Service) systems. </p>
+            <p>[Diagram - StormProxy for cloud]</p>
+            <p>StormProxy is vendor agnostic; it can discover cloud resources hosted by any of the
+                popular cloud infrastructures (AWS, IBM, Microsoft, or Oracle). APIs such as those
+                for StormProxy create a level playing field – cloud resources and on-prem resources
+                can be provisioned, monitored, and balanced by virtue of a shared management API
+                between cloud proxies and on-prem proxies. With StormSuite, you can deploy one
+                management infrastructure (StormCenter) designed to support services that are
+                deployed on the cloud and on data center clusters. </p>
+            <p>StormSuite provides the level of abstraction between on-prem resources and cloud
+                resources to make a hybrid infrastructure manageable and efficient. </p>
         </section>
         <section id="section_s4m_d33_n2b">
             <title>StormCluster overview</title>
