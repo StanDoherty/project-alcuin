@@ -11,7 +11,7 @@
                 organizations are being asked to develop and maintain parallel services in both
                 Cloud and Cluster environments. Increasingly, IT organizations are doubling their
                 overhead by needing to develop redundant services for both Cloud and Cluster
-                environments. It canot scale.</p>
+                environments. It cannot scale.</p>
             <p>What will differentiate successful hybrid IT organizations will the ability to
                 streamline and consolidate the management of hybrid (parallel) services without
                 compromising security, scalability, or efficiency (cost). If eachparallel, hybrid
@@ -21,7 +21,7 @@
             <fig id="fig_n2v_lcp_n2b">
                 <title>Hybrid infrastructures</title>
                 <image href="../graphics/diagram_architecture_01.png" placement="break"
-                    id="image_o2p_4cp_n2b">
+                    id="image_o2p_4cp_n2b" scale="60">
                     <alt>Alt text</alt>
                 </image>
             </fig>
@@ -60,7 +60,9 @@
             <fig id="fig_pjm_wcp_n2b">
                 <title>StormCluster</title>
                 <image placement="break" href="../graphics/diagram_architecture_02.png"
-                    id="image_ssb_ycp_n2b"><alt>StormCluster</alt></image>
+                    id="image_ssb_ycp_n2b" scale="60">
+                    <alt>StormCluster</alt>
+                </image>
             </fig>
         </section>
         <section id="section_gbm_d33_n2b">
@@ -89,7 +91,7 @@
             <fig id="fig_nbj_qcp_n2b">
                 <title>StormCloud</title>
                 <image placement="break" href="../graphics/diagram_architecture_03.png"
-                    id="image_lwf_tcp_n2b">
+                    id="image_lwf_tcp_n2b" scale="60">
                     <alt>StormCloud</alt>
                 </image>
             </fig>
@@ -101,7 +103,7 @@
             <fig id="fig_as1_cdp_n2b">
                 <title>StormCenter</title>
                 <image placement="break" href="../graphics/diagram_architecture_04.png"
-                    id="image_rjr_ddp_n2b">
+                    id="image_rjr_ddp_n2b" scale="60">
                     <alt>StrormCenter</alt>
                 </image>
             </fig>
@@ -155,6 +157,13 @@
                     <p>x</p>
                 </li>
             </ul>
+            <fig id="fig_tyt_dz3_42b">
+                <title>StormCenter-Admin</title>
+                <image placement="break" href="../graphics/screen_stormcenter-console_admin0.png"
+                    id="image_mvn_gz3_42b" scale="70">
+                    <alt>StormCenter-Admin</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_qkn_d33_n2b">
             <title>StormCenter-Analyzer</title>
@@ -177,6 +186,13 @@
                     <p>Serves inventory and status information to StormCenter-Report.</p>
                 </li>
             </ul>
+            <fig id="fig_lrk_vz3_42b">
+                <title>StormCenter-Analyzer</title>
+                <image placement="break" href="../graphics/screen_stormcenter-console_analyzer0.png"
+                    id="image_vvm_xz3_42b" scale="70">
+                    <alt>StormCenter-Analyzer</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_ksn_d33_n2b">
             <title>StormCenter-Backup </title>
@@ -197,6 +213,13 @@
                         StormCenter-Report.</p>
                 </li>
             </ul>
+            <fig id="fig_mwv_hbj_42b">
+                <title>StormCenter-Backup</title>
+                <image placement="break" href="../graphics/screen_stormcenter-console_backup0.png"
+                    id="image_lnj_jbj_42b" scale="70">
+                    <alt>StormCenter-Backup</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_gzn_d33_n2b">
             <title>StormCenter-Balance</title>
@@ -219,6 +242,13 @@
                     <p>Reports general capacity and performance metrics to StormCenter-Report.</p>
                 </li>
             </ul>
+            <fig id="fig_xtc_lbj_42b">
+                <title>StormCenter-Balance</title>
+                <image placement="break" href="../graphics/screen_stormcenter-console_balance0.png"
+                    id="image_bbw_lbj_42b" scale="70">
+                    <alt>StormCenter-Balance</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_oj4_d33_n2b">
             <title>StormCenter-Report</title>
@@ -263,11 +293,18 @@
                     <p>x</p>
                 </li>
             </ul>
+            <fig id="fig_fvz_4bj_42b">
+                <title>StormCenter-Report</title>
+                <image placement="break" href="../graphics/screen_stormcenter-console_report0.png"
+                    id="image_uxx_qbj_42b" scale="70">
+                    <alt>StormCenter-Report</alt>
+                </image>
+            </fig>
             <p>StormView calls StormCenter-Report to obtain the most current data tables and
                 diagrams.</p>
         </section>
         <section id="section_sq4_d33_n2b">
-            <title>StormCenter-Secure </title>
+            <title>StormCenter-Secure</title>
             <p>StormCenter-Secure provides a combination of account management and network security
                 services for all StormSuite services and applications.</p>
             <p>In the larger context of StormSuite, StormCenter-Secure does the following:</p>
@@ -294,6 +331,13 @@
                     <p>x</p>
                 </li>
             </ul>
+            <fig id="fig_gkk_sbj_42b">
+                <title>StormCenter-Secure</title>
+                <image placement="break" href="../graphics/screen_stormcenter-console_secure0.png"
+                    id="image_vkj_tbj_42b" scale="70">
+                    <alt>StormCenter-Secure</alt>
+                </image>
+            </fig>
             <p>StormView calls StormCenter-Report to obtain the most current data on system and
                 user-account security.</p>
         </section>
@@ -326,6 +370,13 @@
                     <p>x</p>
                 </li>
             </ul>
+            <fig id="fig_gg1_vbj_42b">
+                <title>StormCenter-Store</title>
+                <image placement="break" href="../graphics/screen_stormcenter-console_store0.png"
+                    id="image_x1c_wbj_42b" scale="70">
+                    <alt>StormCenter-Store</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_b11_vk3_n2b">
             <title>StormView</title>
