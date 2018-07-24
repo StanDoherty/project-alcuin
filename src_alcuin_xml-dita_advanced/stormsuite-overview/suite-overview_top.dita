@@ -61,21 +61,40 @@
                 API builds an array of objects for StormCluster that serve as proxies to the
                 physical resources available in an on-prem, clustered network. For each physical
                 resource, there is a corresponding proxy object that maintains state. </p>
-            <p>[Diagram - StormProxy for on-prem]</p>
+            <fig id="fig_fdq_gdy_42b">
+                <title>StormProxy for Clusters</title>
+                <image placement="break" href="../graphics/diagram_stormproxy_cluster.png"
+                    id="image_ymq_jdy_42b" scale="70">
+                    <alt>StormProxy for Clusters</alt>
+                </image>
+            </fig>
             <p>One API manages resource discovery, another manages parallel state monitoring, and
                 yet another exposes this  proxy information to hybrid management services such
                 StormCenter. Similarly, StormProxy uses a different set of APIs in StormCloud to
                 build its proxy array of cloud-based resources – be they managed through Kubernetes
                 containerized services or more traditional PaaS (Platform as a Service) systems. </p>
-            <p>[Diagram - StormProxy for cloud]</p>
+            <fig id="fig_a1l_kdy_42b">
+                <title>StormProxy for Cloud</title>
+                <image placement="break" href="../graphics/diagram_stormproxy_cloud.png"
+                    id="image_tsv_mdy_42b" scale="70">
+                    <alt>StormProxy for Cloud</alt>
+                </image>
+            </fig>
             <p>StormProxy is vendor agnostic; it can discover cloud resources hosted by any of the
                 popular cloud infrastructures (AWS, IBM, Microsoft, or Oracle). APIs such as those
                 for StormProxy create a level playing field – cloud resources and on-prem resources
                 can be provisioned, monitored, and balanced by virtue of a shared management API
-                between cloud proxies and on-prem proxies. With StormSuite, you can deploy one
-                management infrastructure (StormCenter) designed to support services that are
-                deployed on the cloud and on data center clusters. </p>
-            <p>StormSuite provides the level of abstraction between on-prem resources and cloud
+                between cloud proxies and on-prem proxies. </p>
+            <fig id="fig_g1f_qdy_42b">
+                <title>StormCenter for Clusters and Cloud</title>
+                <image placement="break" href="../graphics/diagram_stormproxy_all.png"
+                    id="image_xjy_tdy_42b" scale="70">
+                    <alt>StormCenter for Clusters and Cloud</alt>
+                </image>
+            </fig>
+            <p>With StormSuite, you can deploy one management infrastructure (StormCenter) designed
+                to support services that are deployed on the cloud and on data center clusters.
+                StormSuite provides the level of abstraction between on-prem resources and cloud
                 resources to make a hybrid infrastructure manageable and efficient. </p>
         </section>
         <section id="section_s4m_d33_n2b">
