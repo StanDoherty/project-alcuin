@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_lrt_xg3_n2b">
-    <title>Product Overview</title>
+    <title>StormSuite Product Overview</title>
     <body>
         <p>Welcome to the <cite>StormSuite Product Overview Guide</cite>. This publication provides
-            an overview of StormSuite, its supporting components, and the ways that it can address
-            your hybrid infrastructure challenges.</p>
+            an overview of StormSuite, its supporting components, and the way it addresses your
+            hybrid infrastructure challenges.</p>
         <section id="section_qfn_c33_n2b">
             <title>Hybrid infrastructure</title>
             <p>Whether your organization is transitioning all its services to a cloud-based
@@ -27,15 +27,6 @@
                 <li>
                     <p>Redundant management interfaces. </p>
                 </li>
-                <li>
-                    <p>x</p>
-                </li>
-                <li>
-                    <p>x</p>
-                </li>
-                <li>
-                    <p>x</p>
-                </li>
             </ul>
             <fig id="fig_n2v_lcp_n2b">
                 <title>Hybrid infrastructures</title>
@@ -46,11 +37,11 @@
             </fig>
             <p>Although the resources that you make available to your clients run on different
                 infrastructures, the management services that you design, implement, and maintain
-                for those infrastructures need not be redundant. You can build hybrid
+                for those infrastructures do not have to be redundant. You can build hybrid
                 infrastructures without redundant management services for those on-prem or cloud
                 resources. With StormSuite, you can build out and scale a hybrid infrastructure as
-                easily as an exclusively on-prem or exclusively cloud infrastructure. What will
-                differentiate successful hybrid IT organizations will be the ability to streamline
+                easily as an exclusively on-prem or exclusively cloud infrastructure. What
+                differentiates successful hybrid IT organizations will be the ability to streamline
                 and consolidate the management of hybrid (parallel) services without compromising
                 security, scalability, or efficiency (cost). </p>
         </section>
@@ -60,7 +51,8 @@
                 APIs. At StormSystems Inc. we do APIs – lots of them. For example, our StormProxy
                 API builds an array of objects for StormCluster that serve as proxies to the
                 physical resources available in an on-prem, clustered network. For each physical
-                resource, there is a corresponding proxy object that maintains state. </p>
+                resource, there is a corresponding proxy object that maintains a statefull
+                connection to its physical resource. </p>
             <fig id="fig_fdq_gdy_42b">
                 <title>StormProxy for Clusters</title>
                 <image placement="break" href="../graphics/diagram_stormproxy_cluster.png"
@@ -69,8 +61,8 @@
                 </image>
             </fig>
             <p>One API manages resource discovery, another manages parallel state monitoring, and
-                yet another exposes this  proxy information to hybrid management services such
-                StormCenter. Similarly, StormProxy uses a different set of APIs in StormCloud to
+                yet another exposes this proxy information to hybrid management services in
+                StormSuite. Similarly, StormProxy uses a different set of APIs in StormCloud to
                 build its proxy array of cloud-based resources – be they managed through Kubernetes
                 containerized services or more traditional PaaS (Platform as a Service) systems. </p>
             <fig id="fig_a1l_kdy_42b">
@@ -84,7 +76,7 @@
                 popular cloud infrastructures (AWS, IBM, Microsoft, or Oracle). APIs such as those
                 for StormProxy create a level playing field – cloud resources and on-prem resources
                 can be provisioned, monitored, and balanced by virtue of a shared management API
-                between cloud proxies and on-prem proxies. </p>
+                between cloud proxies and on-prem proxies – StormCenter. </p>
             <fig id="fig_g1f_qdy_42b">
                 <title>StormCenter for Clusters and Cloud</title>
                 <image placement="break" href="../graphics/diagram_stormproxy_all.png"
@@ -92,10 +84,10 @@
                     <alt>StormCenter for Clusters and Cloud</alt>
                 </image>
             </fig>
-            <p>With StormSuite, you can deploy one management infrastructure (StormCenter) designed
-                to support services that are deployed on the cloud and on data center clusters.
-                StormSuite provides the level of abstraction between on-prem resources and cloud
-                resources to make a hybrid infrastructure manageable and efficient. </p>
+            <p>With StormSuite, you can deploy one management infrastructure (StormCenter) that
+                supports services deployed on both cloud and data center clusters. StormSuite
+                provides the level of abstraction between on-prem resources and cloud resources to
+                make a hybrid infrastructure manageable and efficient. </p>
         </section>
         <section id="section_s4m_d33_n2b">
             <title>StormCluster overview</title>
@@ -129,24 +121,23 @@
             <p>StormCloud provides a set of interfaces to the following Cloud-specific services:</p>
             <ul id="ul_ddm_4q3_n2b">
                 <li>
-                    <p>Cloud client interfaces: The access and security interfaces required to allow
-                        web clients, mobile apps, or dedicated management applications to interact
-                        with Cloud services.</p>
+                    <p><i>Cloud client interfaces</i>: The access and security interfaces required
+                        to allow web clients, mobile apps, or dedicated management applications to
+                        interact with Cloud services.</p>
                 </li>
                 <li>
-                    <p>Cloud storage: The storage interfaces that allow multiple clients to access
-                        stored objects, be they physically residing on a public cloud, private
-                        cloud, or hybrid cloud. The cloud storage needs to be agile, flexible,
-                        scalable, multi-tenant, and secure.</p>
+                    <p><i>Cloud storage</i>: The storage interfaces that allow multiple clients to
+                        access stored objects, be they physically residing on a public cloud,
+                        private cloud, or hybrid cloud. The cloud storage needs to be agile,
+                        flexible, scalable, multi-tenant, and secure.</p>
                 </li>
                 <li>
-                    <p>Service-oriented delivery: The logical interfaces necessary to allow
+                    <p><i>Service-oriented delivery</i>: The logical interfaces necessary to allow
                         Cloud-based services to become available to multiple clients and tenants ñ
                         Software as a service (SaaS), Development as a service (DaaS), Platform as a
                         service (PaaS), and Infrastructure as a service (IaaS).</p>
                 </li>
             </ul>
-            <p>StormSuite administrators interact with StormCloud interfaces via StormCenter.</p>
             <fig id="fig_nbj_qcp_n2b">
                 <title>StormCloud</title>
                 <image placement="break" href="../graphics/diagram_architecture_03.png"
@@ -154,11 +145,12 @@
                     <alt>StormCloud</alt>
                 </image>
             </fig>
+            <p>StormSuite administrators interact with StormCloud interfaces via StormCenter.</p>
         </section>
         <section id="section_l1n_d33_n2b">
             <title>StormCenter - unified services and APIs</title>
-            <p>StormCenter provides a unified suite of services that can deploy, manage, monitor,
-                and balance resources that reside on a Cloud or on a local Cluster.</p>
+            <p>StormCenter provides services that communicate with the StormCloud and StormCluster
+                proxy objects. </p>
             <fig id="fig_as1_cdp_n2b">
                 <title>StormCenter</title>
                 <image placement="break" href="../graphics/diagram_architecture_04.png"
